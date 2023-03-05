@@ -1,5 +1,5 @@
 ### DEMO Link
-[myDatatable Demo](http://ardauyaroglu.net/mydatatable.html)
+[myDatatable Demo](http://ardauyaroglu.net/mydatatable)
 
 # Getting Started with Create React App
 
